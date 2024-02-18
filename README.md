@@ -1,7 +1,7 @@
 # Azure Vision Studio
 
 
-Crie um arquivo chamado readme.md , deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo.
+
  ### Iniciando (Portal Azure)
 
 É necessário criar um recurso no [Portal Azure](https://portal.azure.com) e vinculá-lo ao Vision Studio. 
